@@ -1,2 +1,16 @@
-# stars
-for public opinion
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="practiceQs3.css">
+</head>
+<body>
+    <div class="a">
+        <div class="'b" > </div>
+        <div claass="c"> </div>
+        <div class="d"> </div>
+    </div>
+</body>
+</html>
